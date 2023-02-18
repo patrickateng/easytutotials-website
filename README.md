@@ -1,1 +1,1 @@
-This is my first trial at making a website :-)
+Easy tuturial's how to make a website.
